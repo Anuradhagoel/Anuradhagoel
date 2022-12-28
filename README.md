@@ -1,0 +1,5 @@
+- 👋 Hey there, I’m Anuradha
+- 👀 I’m interested in Data Analytics and love learning new skills
+- 💉 I have a background in data driven decision making
+- 🌱 I’m currently learning SQL, Tableau, and Python
+- 📫 How to reach me: https://www.linkedin.com/in/anuradhagoel/
